@@ -1,1 +1,1 @@
-gold price prediction using random forest regressor which is a boosting ensemble technique
+gold price prediction using random forest regressor which is a bagging ensemble technique
